@@ -1,0 +1,7 @@
+C:\Users\Love\Desktop\learning\Practice\Challenge3\bin\Debug\Challenge3.exe.config
+C:\Users\Love\Desktop\learning\Practice\Challenge3\bin\Debug\Challenge3.exe
+C:\Users\Love\Desktop\learning\Practice\Challenge3\bin\Debug\Challenge3.pdb
+C:\Users\Love\Desktop\learning\Practice\Challenge3\obj\Debug\Challenge_3.csprojAssemblyReference.cache
+C:\Users\Love\Desktop\learning\Practice\Challenge3\obj\Debug\Challenge_3.csproj.CoreCompileInputs.cache
+C:\Users\Love\Desktop\learning\Practice\Challenge3\obj\Debug\Challenge3.exe
+C:\Users\Love\Desktop\learning\Practice\Challenge3\obj\Debug\Challenge3.pdb
